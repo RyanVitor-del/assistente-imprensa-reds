@@ -1,0 +1,14 @@
+{
+  "gemini_key": "",
+  "cloud_name": "",
+  "cloud_key": "",
+  "cloud_secret": "",
+  "insta_id": "",
+  "insta_token": "",
+  "prompt_release": "Leia o PDF anexado e gere um release oficial completo, claro e objetivo.",
+  "prompt_instagram": "Leia o PDF anexado e gere uma legenda profissional para Instagram.",
+  "ui_theme": "light",
+  "ui_remember_user": false,
+  "sisp_user": "",
+  "recent_consultas": []
+}

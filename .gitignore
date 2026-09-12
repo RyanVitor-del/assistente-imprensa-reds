@@ -1,0 +1,31 @@
+# Segredos e preferências locais
+config.json
+configmunicipio.json
+configunidade.json
+.env
+.env.*
+!.env.example
+
+# Ambientes e caches Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Saídas do aplicativo e de build
+temp_pdf/
+build/
+dist/
+*.exe
+*.zip
+*.rar
+*.spec
+.playwright-cli/
+
+# Editores e sistema operacional
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
